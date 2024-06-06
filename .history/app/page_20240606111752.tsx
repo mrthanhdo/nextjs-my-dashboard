@@ -42,13 +42,6 @@ export default function Page() {
           />
 
           {/* Add Hero Images Here on mobile */}
-          <Image
-            src="/hero-mobile.png"
-            width={560}
-            height={620}
-            className="block md:hidden"
-            alt="Screenshots of the dashboard project showing mobile version"
-          />
         </div>
       </div>
     </main>

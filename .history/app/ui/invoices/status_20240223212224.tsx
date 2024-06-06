@@ -1,5 +1,5 @@
 import { CheckIcon, ClockIcon } from '@heroicons/react/24/outline';
-import clsx from 'clsx'; //Dung de noi cac className voi dieu kien nao do
+import clsx from 'clsx';
 
 export default function InvoiceStatus({ status }: { status: string }) {
   return (
